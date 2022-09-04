@@ -2,4 +2,5 @@
 
 This is a simple code of Binary Search Algorithm in Python language! (By AT A GLANCE! - Yash Paddalwar)
 
-![image](https://user-images.githubusercontent.com/111221670/188319551-53415acf-47e6-4075-9c75-92f0f2fcbeef.png)
+![image](https://user-images.githubusercontent.com/111221670/188319589-656b01a1-134f-42c4-828c-cc6b0ac872a8.png)
+
